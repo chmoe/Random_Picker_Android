@@ -1,0 +1,10 @@
+{
+  "appId": "moe.cha.app.apk.randompicker",
+  "appName": "随机选择器",
+  "webDir": "www",
+  "plugins": {
+    "StatusBar": {
+      "overlaysWebView": false
+    }
+  }
+}

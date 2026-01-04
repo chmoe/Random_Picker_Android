@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">随机选择器</string>
+    <string name="title_activity_main">阿茶的随机选择器</string>
+    <string name="package_name">moe.cha.app.apk.randompicker</string>
+    <string name="custom_url_scheme">moe.cha.app.apk.randompicker</string>
+</resources>
